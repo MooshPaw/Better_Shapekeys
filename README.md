@@ -1,8 +1,14 @@
-# Shape Keys+
+# Better Shapekeys
 
-A free [Blender](https://www.blender.org/) add-on that grants ***Shape Keys+,*** a plus-size panel containing extra features for creating, sorting, viewing, and driving shape keys.
+A fork of [Shape Keys+](https://github.com/MichaelGlenMontague/shape_keys_plus) with a big focus on improving the automatization and workflow on Face Tracking blendshapes (ARKit and UE)
 
-Automatically hides the default ***Shape Keys*** panel, which can be enabled again via the add-on's preferences. ***Shape Keys+*** was made to help with managing hundreds of shape keys on a fully rigged character. It focuses on saving time and decreasing the number of clicks needed for common operations such as moving or copying shape keys.
+Add-on made for [Blender](https://www.blender.org/) which adds a panel containing extra features for creating, sorting, viewing, and driving shape keys.
+
+Automatically hides the default ***Shape Keys*** panel, which can be enabled again via the add-on's preferences. 
+
+
+## The rest here hasn't been updated and contains the Shapekeys+ readme. It'll be updated eventually
+***Shape Keys+*** was made to help with managing hundreds of shape keys on a fully rigged character. It focuses on saving time and decreasing the number of clicks needed for common operations such as moving or copying shape keys.
 
 Click-holding or click-dragging on one of the **Add** / **Copy** / **Remove** sidebar buttons will open its respective specials menu, containing extra operations related to the respective button.
 
@@ -28,3 +34,7 @@ Click-holding or click-dragging on one of the **Add** / **Copy** / **Remove** si
 
 - **Manual Translation**
 > All UI elements are set up for manual translation, with the two current languages being English and Japanese. The language can be configured at any time simply by changing the language property in the shape_keys_plus/config.ini file and restarting Blender.
+
+---
+# Credits
+[MichaelGlenMontague](https://github.com/MichaelGlenMontague) - Original work on [Shapekeys+](https://github.com/MichaelGlenMontague/shape_keys_plus) from which this project is based on
